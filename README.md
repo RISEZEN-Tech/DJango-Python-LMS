@@ -24,6 +24,8 @@ Frontend: HTML, CSS, JavaScript, Bootstrap (or Django Templates)
 
 AI Module: Gemini API
 
+Jupyter Notebook
+
 # Setup Instructions:
 pip install -r requirements.txt
 
